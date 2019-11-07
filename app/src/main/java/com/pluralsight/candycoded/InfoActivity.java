@@ -28,7 +28,7 @@ public class InfoActivity extends AppCompatActivity {
     // ***
 
     public void createMapIntent(View view) {
-        Uri uriAdress = Uri.parse("geo:0,0?q=618 E South St Orlando, FL 32801");
+        Uri uriAdress = Uri.parse("geo:0,0?q=Kimathi Way, Nyeri, Central Nyeri Nyeri Kenya");
         Intent mapIntent = new Intent(Intent.ACTION_VIEW,uriAdress);
         mapIntent.setPackage("com.google.android.apps.maps");
 

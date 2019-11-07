@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Candy Coded</string>
     <string name="products_title">Products</string>
+    <string name="nyeri_kimathi_way">Nyeri Kimathi Way</string>
+    <string name="phone">(012)345-6789</string>
+    <string name="open">Everyday 10am-10pm</string>
 </resources>
