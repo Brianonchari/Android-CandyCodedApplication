@@ -38,7 +38,7 @@ public class InfoActivity extends AppCompatActivity {
     }
 
     // ***
-    // TODO - Task 3 - Launch the Phone Activity
+    // TODO - Task 3 - Launch the Phone Activit
     // ***
 
     public void createPhoneIntent(View view){
